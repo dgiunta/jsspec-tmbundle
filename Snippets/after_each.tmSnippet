@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>after_each: function(){
+	$0
+},</string>
+	<key>name</key>
+	<string>after_each</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>afte</string>
+	<key>uuid</key>
+	<string>4673898B-C5D6-406C-92F8-F6FC3BB6D1C8</string>
+</dict>
+</plist>
